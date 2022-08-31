@@ -27,7 +27,7 @@
     "mathjs": "^5.1.2",
     "moment": "^2.22.2",
     "moment-duration-format": "^2.2.2",
-    "moment-timezone": "^0.5.21",
+    "moment-timezone": "^0.5.35",
     "morse-node": "^0.1.1",
     "ms": "^2.1.1",
     "node-fetch": "^2.2.0",
